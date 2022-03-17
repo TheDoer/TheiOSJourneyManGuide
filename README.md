@@ -4,8 +4,8 @@ A curated list of learning for my iOS Development journey, this list consist of 
 
 ## Swift
 * [Arrays](https://github.com/TheDoer/TheiOSJourneyManGuide/blob/main/Basics/Arrays/arrays.md)
+* [Dictionaries](https://github.com/TheDoer/TheiOSJourneyManGuide/blob/main/Basics/Dictionaries/Dictionaries.md)
 * [Generics](https://github.com/TheDoer/TheiOSJourneyManGuide/blob/main/Basics/Arrays/arrays.md)
-* [Dictinaries](https://github.com/TheDoer/TheiOSJourneyManGuide/blob/main/Basics/Arrays/arrays.md)
 
 ## Objective - C
 
