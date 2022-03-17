@@ -4,7 +4,7 @@ A curated list of learning for my iOS Development journey, this list consist of 
 
 ## Swift
 * [Arrays](https://github.com/jrasmusson/ios-starter-kit/blob/master/basics/Array/README.md)
-* [Genetics]
+* [Generics]
 * [Dictinaries]
 
 ## Objective - C
@@ -12,6 +12,8 @@ A curated list of learning for my iOS Development journey, this list consist of 
 ## SwiftUI
 
 ## Testing 
+
+## Achitectures
 
 ## CI/CD
 *Jenkins
